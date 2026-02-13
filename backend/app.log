@@ -1,0 +1,13 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2026-02-13 07:44:06,477 - INFO - 🚀 Profile Dashboard starting on port 5000
+2026-02-13 07:45:53,854 - INFO - 🚀 Profile Dashboard starting on port 5000
+2026-02-13 07:47:31,887 - INFO - 🚀 Profile Dashboard starting on port 5000
+2026-02-13 07:47:32,133 - INFO - 🚀 Profile Dashboard starting on port 5000
+2026-02-13 07:47:38,554 - INFO - Dashboard accessed
+2026-02-13 07:47:45,338 - INFO - Register attempt: 
+2026-02-13 07:47:45,432 - INFO - User registered successfully: 
+2026-02-13 07:47:47,579 - INFO - Login attempt: 
+2026-02-13 07:47:47,671 - INFO - Login successful: 
